@@ -1,0 +1,7 @@
+{
+  "name": "CCT Virtual Lights",
+  "content_in_root": false,
+  "domains": ["cct_virtual_lights"],
+  "render_readme": true,
+  "country": "DE"
+}

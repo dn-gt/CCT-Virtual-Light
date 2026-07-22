@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "CCT Virtual Light",
+        "description": "Map two backend white channels to one virtual CCT light."
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configure CCT Virtual Light",
+        "description": "Adjust channel mapping and tuning values."
+      }
+    }
+  }
+}

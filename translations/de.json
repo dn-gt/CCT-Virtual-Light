@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "CCT-virtuelles Licht",
+        "description": "Verknüpfe zwei Backend-Weißkanäle zu einem virtuellen CCT-Licht."
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "CCT-virtuelles Licht konfigurieren",
+        "description": "Kanäle und Abstimmungswerte anpassen."
+      }
+    }
+  }
+}
